@@ -1,0 +1,3 @@
+/Users/alexandre/CLionProjects/Univali/M2/PonteirosEReferencia/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/alexandre/CLionProjects/Univali/M2/PonteirosEReferencia/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/alexandre/CLionProjects/Univali/M2/PonteirosEReferencia/cmake-build-debug/CMakeFiles/PonteirosEReferencia.dir
